@@ -2,8 +2,4 @@
 
 ## Questions
 
-### 2016
-* Qualification Round
-    * A - Counting Sheep 
-    * B - Revenge of the Pancakes
-
+###  [2016](https://github.com/goke-epapa/GoogleCodeJam/blob/src/me/adegokeobasa/codejam/y2016/README.md)
