@@ -1,9 +1,8 @@
-Google Code Jam Solutions
-====================
+# Google Code Jam Solutions
 
-#Questions
+## Questions
 
-##2016
+### 2016
 * Qualification Round
     * A - Counting Sheep 
     * B - Revenge of the Pancakes
